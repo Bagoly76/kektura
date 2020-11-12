@@ -17,7 +17,7 @@ function showSlides(n, no) {
   }
   x[slideIndex[no]-1].style.display = "block";  
 }
-}
+
 
 /* Toggle between adding and removing the "responsive" class to the navbar when the user clicks on the icon */
 function myFunction() {
